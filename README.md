@@ -11,9 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)VSCode html CSS
+![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)VSCode
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
