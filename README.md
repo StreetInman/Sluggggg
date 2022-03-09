@@ -20,3 +20,5 @@
 
 I'm currently working on the OGPC '22 Website representing THS, and two different Discord bots, one that I have been invited to collaborate on to better my Javascript and team collaboration skills, and one for my schools Gaming Club Discord. 
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
