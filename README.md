@@ -14,6 +14,11 @@
 ![LOVE](http://ForTheBadge.com/images/badges/built-with-love.svg)VSCode
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 # Projects
