@@ -23,7 +23,7 @@ No activity tracked
 
 # Projects
 
-I'm currently working on the OGPC '22 Website representing THS, and two different Discord bots, one that I have been invited to collaborate on to better my Javascript and team collaboration skills, and one for my schools Gaming Club Discord. 
+I'm currently just enjoying my summer! I'm planning on getting back into programming once school starts back up, and with that I will be learning ReactJS to start it off!
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
