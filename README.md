@@ -1,6 +1,6 @@
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=50&multiline=true&width=450&height=125&lines=Hey!+I'm+Street+%F0%9F%91%8B;I'm+learning+Javascript+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Smooch+Sans&size=50&multiline=true&width=450&height=125&lines=Hey!+I'm+Street+%F0%9F%91%8B;I'm+learning+ReactJS!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 # Languages
 
