@@ -23,7 +23,7 @@ No activity tracked
 
 # Projects
 
-I'm currently just enjoying my summer! I'm planning on getting back into programming once school starts back up, and with that I will be learning ReactJS to start it off!
+I am currently back in school, and taking a Web Design class (even though I already know most of the things about the class)! I am trying to continue learning ReactJS, but I have been very busy with school, sports, and work, so I haven't had much time to work!
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
