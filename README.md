@@ -23,7 +23,7 @@ No activity tracked
 
 # Projects
 
-I am currently back in school, and taking a Web Design class (even though I already know most of the things about the class)! I am trying to continue learning ReactJS, but I have been very busy with school, sports, and work, so I haven't had much time to work!
+I am a student in the Ira. A Fulton School of Engineering at Arizona State University studying computer science!
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
